@@ -1,4 +1,5 @@
 # Store
+a well-structured SPA Project using Angular, applying routing, Guards, Connecting to a RestFul API 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
